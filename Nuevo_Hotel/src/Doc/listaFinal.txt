@@ -1,0 +1,1102 @@
+002,Abejorral,3,ABE,05,Antioquia,2,ANT
+004,Abriaqui,3,ABR,05,Antioquia,2,ANT
+006,Acacias,3,ACA,50,Meta,2,MET
+006,Acandi,3,ACA,27,Choco,2,CHO
+006,Acevedo,3,ACE,41,Huila,2,HUI
+006,Achi,3,ACH,13,Bolivar,2,BOL
+013,Agrado,3,AGR,41,Huila,2,HUI
+001,Agua de Dios,3,AGU,25,Cundinamarca,2,CUN
+011,Aguachica,3,AGU,20,Cesar,2,CES
+013,Aguada,3,AGU,68,Santander,2,SAN
+013,Aguadas,3,AGU,17,Caldas,2,CAL
+010,Aguazul,3,AGU,85,Casanare,2,CAS
+013,Agustin Codazzi,3,AGU,20,Cesar,2,CES
+016,Aipe,3,AIP,41,Huila,2,HUI
+029,Albania,3,ALB,18,Caqueta,2,CAQ
+035,Albania,3,ALB,44,La Guajira,2,LA 
+020,Albania,3,ALB,68,Santander,2,SAN
+019,Alban,3,ALB,25,Cundinamarca,2,CUN
+019,Alban (San Jose),3,ALB,52,Nariño,2,NAR
+020,Alcala,3,ALC,76,Valle del Cauca,2,VAL
+022,Aldana,3,ALD,52,Nariño,2,NAR
+021,Alejandria,3,ALE,05,Antioquia,2,ANT
+030,Algarrobo,3,ALG,47,Magdalena,2,MAG
+020,Algeciras,3,ALG,41,Huila,2,HUI
+022,Almaguer,3,ALM,19,Cauca,2,CAU
+022,Almeida,3,ALM,15,Boyaca,2,BOY
+024,Alpujarra,3,ALP,73,Tolima,2,TOL
+026,Altamira,3,ALT,41,Huila,2,HUI
+025,Alto Baudo (Pie de Pato),3,ALT,27,Choco,2,CHO
+030,Altos del Rosario,3,ALT,13,Bolivar,2,BOL
+026,Alvarado,3,ALV,73,Tolima,2,TOL
+030,Amaga,3,AMA,05,Antioquia,2,ANT
+031,Amalfi,3,AMA,05,Antioquia,2,ANT
+030,Ambalema,3,AMB,73,Tolima,2,TOL
+035,Anapoima,3,ANA,25,Cundinamarca,2,CUN
+036,Ancuya,3,ANC,52,Nariño,2,NAR
+036,Andalucia,3,AND,76,Valle del Cauca,2,VAL
+034,Andes,3,AND,05,Antioquia,2,ANT
+036,Angelopolis,3,ANG,05,Antioquia,2,ANT
+038,Angostura,3,ANG,05,Antioquia,2,ANT
+040,Anolaima,3,ANO,25,Cundinamarca,2,CUN
+040,Anori,3,ANO,05,Antioquia,2,ANT
+042,Anserma,3,ANS,17,Caldas,2,CAL
+041,Ansermanuevo,3,ANS,76,Valle del Cauca,2,VAL
+043,Anzoategui,3,ANZ,73,Tolima,2,TOL
+044,Anza,3,ANZ,05,Antioquia,2,ANT
+045,Apartado,3,APA,05,Antioquia,2,ANT
+599,Apulo,3,APU,25,Cundinamarca,2,CUN
+045,Apia,3,API,66,Risaralda,2,RIS
+047,Aquitania,3,AQU,15,Boyaca,2,BOY
+053,Aracataca,3,ARA,47,Magdalena,2,MAG
+050,Aranzazu,3,ARA,17,Caldas,2,CAL
+051,Aratoca,3,ARA,68,Santander,2,SAN
+001,Arauca,3,ARA,81,Arauca,2,ARA
+065,Arauquita,3,ARA,81,Arauca,2,ARA
+053,Arbelaez,3,ARB,25,Cundinamarca,2,CUN
+051,Arboleda (Berruecos),3,ARB,52,Nariño,2,NAR
+051,Arboledas,3,ARB,54,Norte de Santander,2,NOR
+051,Arboletes,3,ARB,05,Antioquia,2,ANT
+051,Arcabuco,3,ARC,15,Boyaca,2,BOY
+042,Arenal,3,ARE,13,Bolivar,2,BOL
+055,Argelia,3,ARG,05,Antioquia,2,ANT
+050,Argelia,3,ARG,19,Cauca,2,CAU
+054,Argelia,3,ARG,76,Valle del Cauca,2,VAL
+058,Ariguani (El Dificil),3,ARI,47,Magdalena,2,MAG
+052,Arjona,3,ARJ,13,Bolivar,2,BOL
+059,Armenia,3,ARM,05,Antioquia,2,ANT
+001,Armenia,3,ARM,63,Quindio,2,QUI
+055,Armero (Guayabal),3,ARM,73,Tolima,2,TOL
+062,Arroyohondo,3,ARR,13,Bolivar,2,BOL
+032,Astrea,3,AST,20,Cesar,2,CES
+067,Ataco,3,ATA,73,Tolima,2,TOL
+050,Atrato (Yuto),3,ATR,27,Choco,2,CHO
+068,Ayapel,3,AYA,23,Cordoba,2,COR
+073,Bagado,3,BAG,27,Choco,2,CHO
+075,Bahia Solano (Mutis),3,BAH,27,Choco,2,CHO
+077,Bajo Baudo (Pizarro),3,BAJ,27,Choco,2,CHO
+075,Balboa,3,BAL,19,Cauca,2,CAU
+075,Balboa,3,BAL,66,Risaralda,2,RIS
+078,Baranoa,3,BAR,08,Atlantico,2,ATL
+078,Baraya,3,BAR,41,Huila,2,HUI
+079,Barbacoas,3,BAR,52,Nariño,2,NAR
+079,Barbosa,3,BAR,05,Antioquia,2,ANT
+077,Barbosa,3,BAR,68,Santander,2,SAN
+079,Barichara,3,BAR,68,Santander,2,SAN
+110,Barranca de Upia,3,BAR,50,Meta,2,MET
+081,Barrancabermeja,3,BAR,68,Santander,2,SAN
+078,Barrancas,3,BAR,44,La Guajira,2,LA 
+074,Barranco de Loba,3,BAR,13,Bolivar,2,BOL
+001,Barranquilla,3,BAR,08,Atlantico,2,ATL
+045,Becerril,3,BEC,20,Cesar,2,CES
+088,Belalcazar,3,BEL,17,Caldas,2,CAL
+088,Bello,3,BEL,05,Antioquia,2,ANT
+086,Belmira,3,BEL,05,Antioquia,2,ANT
+086,Beltran,3,BEL,25,Cundinamarca,2,CUN
+087,Belen,3,BEL,15,Boyaca,2,BOY
+083,Belen,3,BEL,52,Nariño,2,NAR
+086,Belen de Bajira,3,BEL,27,Choco,2,CHO
+088,Belen de Umbria,3,BEL,66,Risaralda,2,RIS
+094,Belen de los Andaquies,3,BEL,18,Caqueta,2,CAQ
+090,Berbeo,3,BER,15,Boyaca,2,BOY
+091,Betania,3,BET,05,Antioquia,2,ANT
+092,Beteitiva,3,BET,15,Boyaca,2,BOY
+093,Betulia,3,BET,05,Antioquia,2,ANT
+092,Betulia,3,BET,68,Santander,2,SAN
+095,Bituima,3,BIT,25,Cundinamarca,2,CUN
+097,Boavita,3,BOA,15,Boyaca,2,BOY
+099,Bochalema,3,BOC,54,Norte de Santander,2,NOR
+001,Bogota D.C.,3,BOG,25,Cundinamarca,2,CUN
+099,Bojaca,3,BOJ,25,Cundinamarca,2,CUN
+099,Bojaya (Bellavista),3,BOJ,27,Choco,2,CHO
+101,Bolivar,3,BOL,05,Antioquia,2,ANT
+100,Bolivar,3,BOL,19,Cauca,2,CAU
+101,Bolivar,3,BOL,68,Santander,2,SAN
+100,Bolivar,3,BOL,76,Valle del Cauca,2,VAL
+060,Bosconia,3,BOS,20,Cesar,2,CES
+104,Boyaca,3,BOY,15,Boyaca,2,BOY
+107,Briceño,3,BRI,05,Antioquia,2,ANT
+106,Briceño,3,BRI,15,Boyaca,2,BOY
+001,Bucaramanga,3,BUC,68,Santander,2,SAN
+109,Bucarasica,3,BUC,54,Norte de Santander,2,NOR
+109,Buenaventura,3,BUE,76,Valle del Cauca,2,VAL
+109,Buenavista,3,BUE,15,Boyaca,2,BOY
+079,Buenavista,3,BUE,23,Cordoba,2,COR
+111,Buenavista,3,BUE,63,Quindio,2,QUI
+110,Buenavista,3,BUE,70,Sucre,2,SUC
+110,Buenos Aires,3,BUE,19,Cauca,2,CAU
+110,Buesaco,3,BUE,52,Nariño,2,NAR
+111,Buga,3,BUG,76,Valle del Cauca,2,VAL
+113,Bugalagrande,3,BUG,76,Valle del Cauca,2,VAL
+113,Buritica,3,BUR,05,Antioquia,2,ANT
+114,Busbanza,3,BUS,15,Boyaca,2,BOY
+120,Cabrera,3,CAB,25,Cundinamarca,2,CUN
+121,Cabrera,3,CAB,68,Santander,2,SAN
+124,Cabuyaro,3,CAB,50,Meta,2,MET
+123,Cachipay,3,CAC,25,Cundinamarca,2,CUN
+125,Caicedo,3,CAI,05,Antioquia,2,ANT
+122,Caicedonia,3,CAI,76,Valle del Cauca,2,VAL
+124,Caimito,3,CAI,70,Sucre,2,SUC
+124,Cajamarca,3,CAJ,73,Tolima,2,TOL
+130,Cajibio,3,CAJ,19,Cauca,2,CAU
+126,Cajica,3,CAJ,25,Cundinamarca,2,CUN
+140,Calamar,3,CAL,13,Bolivar,2,BOL
+015,Calamar,3,CAL,95,Guaviare,2,GUA
+130,Calarca,3,CAL,63,Quindio,2,QUI
+129,Caldas,3,CAL,05,Antioquia,2,ANT
+131,Caldas,3,CAL,15,Boyaca,2,BOY
+137,Caldono,3,CAL,19,Cauca,2,CAU
+132,California,3,CAL,68,Santander,2,SAN
+126,Calima (Darien),3,CAL,76,Valle del Cauca,2,VAL
+142,Caloto,3,CAL,19,Cauca,2,CAU
+001,Cali,3,CAL,76,Valle del Cauca,2,VAL
+134,Campamento,3,CAM,05,Antioquia,2,ANT
+137,Campo de la Cruz,3,CAM,08,Atlantico,2,ATL
+132,Campoalegre,3,CAM,41,Huila,2,HUI
+135,Campohermoso,3,CAM,15,Boyaca,2,BOY
+090,Canalete,3,CAN,23,Cordoba,2,COR
+141,Candelaria,3,CAN,08,Atlantico,2,ATL
+130,Candelaria,3,CAN,76,Valle del Cauca,2,VAL
+160,Cantagallo,3,CAN,13,Bolivar,2,BOL
+135,Canton de San Pablo,3,CAN,27,Choco,2,CHO
+148,Caparrapi,3,CAP,25,Cundinamarca,2,CUN
+147,Capitanejo,3,CAP,68,Santander,2,SAN
+142,Caracoli,3,CAR,05,Antioquia,2,ANT
+145,Caramanta,3,CAR,05,Antioquia,2,ANT
+152,Carcasi,3,CAR,68,Santander,2,SAN
+147,Carepa,3,CAR,05,Antioquia,2,ANT
+148,Carmen de Apicala,3,CAR,73,Tolima,2,TOL
+154,Carmen de Carupa,3,CAR,25,Cundinamarca,2,CUN
+148,Carmen de Viboral,3,CAR,05,Antioquia,2,ANT
+150,Carmen del Darien (CURBARADO),3,CAR,27,Choco,2,CHO
+150,Carolina,3,CAR,05,Antioquia,2,ANT
+001,Cartagena,3,CAR,13,Bolivar,2,BOL
+150,Cartagena del Chaira,3,CAR,18,Caqueta,2,CAQ
+147,Cartago,3,CAR,76,Valle del Cauca,2,VAL
+161,Caruru,3,CAR,97,Vaupes,2,VAU
+152,Casabianca,3,CAS,73,Tolima,2,TOL
+150,Castilla la Nueva,3,CAS,50,Meta,2,MET
+154,Caucasia,3,CAU,05,Antioquia,2,ANT
+138,Cañasgordas,3,CA�,05,Antioquia,2,ANT
+160,Cepita,3,CEP,68,Santander,2,SAN
+162,Cerete,3,CER,23,Cordoba,2,COR
+162,Cerinza,3,CER,15,Boyaca,2,BOY
+162,Cerrito,3,CER,68,Santander,2,SAN
+161,Cerro San Antonio,3,CER,47,Magdalena,2,MAG
+240,Chachagui,3,CHA,52,Nariño,2,NAR
+168,Chaguani,3,CHA,25,Cundinamarca,2,CUN
+230,Chalan,3,CHA,70,Sucre,2,SUC
+168,Chaparral,3,CHA,73,Tolima,2,TOL
+167,Charala,3,CHA,68,Santander,2,SAN
+169,Charta,3,CHA,68,Santander,2,SAN
+172,Chigorodo,3,CHI,05,Antioquia,2,ANT
+176,Chima,3,CHI,68,Santander,2,SAN
+175,Chimichagua,3,CHI,20,Cesar,2,CES
+168,Chima,3,CHI,23,Cordoba,2,COR
+172,Chinavita,3,CHI,15,Boyaca,2,BOY
+174,Chinchina,3,CHI,17,Caldas,2,CAL
+172,Chinacota,3,CHI,54,Norte de Santander,2,NOR
+182,Chinu,3,CHI,23,Cordoba,2,COR
+178,Chipaque,3,CHI,25,Cundinamarca,2,CUN
+179,Chipata,3,CHI,68,Santander,2,SAN
+176,Chiquinquira,3,CHI,15,Boyaca,2,BOY
+178,Chiriguana,3,CHI,20,Cesar,2,CES
+180,Chiscas,3,CHI,15,Boyaca,2,BOY
+183,Chita,3,CHI,15,Boyaca,2,BOY
+174,Chitaga,3,CHI,54,Norte de Santander,2,NOR
+185,Chitaraque,3,CHI,15,Boyaca,2,BOY
+187,Chivata,3,CHI,15,Boyaca,2,BOY
+170,Chivolo,3,CHI,47,Magdalena,2,MAG
+181,Choachi,3,CHO,25,Cundinamarca,2,CUN
+183,Choconta,3,CHO,25,Cundinamarca,2,CUN
+015,Chameza,3,CHA,85,Casanare,2,CAS
+175,Chia,3,CHI,25,Cundinamarca,2,CUN
+232,Chiquiza,3,CHI,15,Boyaca,2,BOY
+236,Chivor,3,CHI,15,Boyaca,2,BOY
+188,Cicuco,3,CIC,13,Bolivar,2,BOL
+190,Cimitarra,3,CIM,68,Santander,2,SAN
+190,Circasia,3,CIR,63,Quindio,2,QUI
+190,Cisneros,3,CIS,05,Antioquia,2,ANT
+189,Cienaga,3,CIE,15,Boyaca,2,BOY
+189,Cienaga,3,CIE,47,Magdalena,2,MAG
+189,Cienaga de Oro,3,CIE,23,Cordoba,2,COR
+222,Clemencia,3,CLE,13,Bolivar,2,BOL
+197,Cocorna,3,COC,05,Antioquia,2,ANT
+200,Coello,3,COE,73,Tolima,2,TOL
+200,Cogua,3,COG,25,Cundinamarca,2,CUN
+206,Colombia,3,COL,41,Huila,2,HUI
+204,Coloso (Ricaurte),3,COL,70,Sucre,2,SUC
+219,Colon,3,COL,86,Putumayo,2,PUT
+203,Colon (Genova),3,COL,52,Nariño,2,NAR
+206,Concepcion,3,CON,05,Antioquia,2,ANT
+207,Concepcion,3,CON,68,Santander,2,SAN
+209,Concordia,3,CON,05,Antioquia,2,ANT
+205,Concordia,3,CON,47,Magdalena,2,MAG
+205,Condoto,3,CON,27,Choco,2,CHO
+209,Confines,3,CON,68,Santander,2,SAN
+207,Consaca,3,CON,52,Nariño,2,NAR
+210,Contadero,3,CON,52,Nariño,2,NAR
+211,Contratacion,3,CON,68,Santander,2,SAN
+206,Convencion,3,CON,54,Norte de Santander,2,NOR
+212,Copacabana,3,COP,05,Antioquia,2,ANT
+212,Coper,3,COP,15,Boyaca,2,BOY
+212,Cordoba,3,COR,63,Quindio,2,QUI
+212,Corinto,3,COR,19,Cauca,2,CAU
+217,Coromoro,3,COR,68,Santander,2,SAN
+215,Corozal,3,COR,70,Sucre,2,SUC
+215,Corrales,3,COR,15,Boyaca,2,BOY
+214,Cota,3,COT,25,Cundinamarca,2,CUN
+300,Cotorra,3,COT,23,Cordoba,2,COR
+218,Covarachia,3,COV,15,Boyaca,2,BOY
+221,Coveñas,3,COV,70,Sucre,2,SUC
+217,Coyaima,3,COY,73,Tolima,2,TOL
+220,Cravo Norte,3,CRA,81,Arauca,2,ARA
+224,Cuaspud (Carlosama),3,CUA,52,Nariño,2,NAR
+223,Cubarral,3,CUB,50,Meta,2,MET
+223,Cubara,3,CUB,15,Boyaca,2,BOY
+224,Cucaita,3,CUC,15,Boyaca,2,BOY
+224,Cucunuba,3,CUC,25,Cundinamarca,2,CUN
+223,Cucutilla,3,CUC,54,Norte de Santander,2,NOR
+226,Cuitiva,3,CUI,15,Boyaca,2,BOY
+226,Cumaral,3,CUM,50,Meta,2,MET
+773,Cumaribo,3,CUM,99,Vichada,2,VIC
+227,Cumbal,3,CUM,52,Nariño,2,NAR
+233,Cumbitara,3,CUM,52,Nariño,2,NAR
+226,Cunday,3,CUN,73,Tolima,2,TOL
+205,Curillo,3,CUR,18,Caqueta,2,CAQ
+229,Curiti,3,CUR,68,Santander,2,SAN
+228,Curumani,3,CUR,20,Cesar,2,CES
+120,Caceres,3,CAC,05,Antioquia,2,ANT
+128,Cachira,3,CAC,54,Norte de Santander,2,NOR
+125,Cacota,3,CAC,54,Norte de Santander,2,NOR
+151,Caqueza,3,CAQ,25,Cundinamarca,2,CUN
+160,Certegui,3,CER,27,Choco,2,CHO
+204,Combita,3,COM,15,Boyaca,2,BOY
+212,Cordoba,3,COR,13,Bolivar,2,BOL
+215,Cordoba,3,COR,52,Nariño,2,NAR
+001,Cucuta,3,CUC,54,Norte de Santander,2,NOR
+234,Dabeiba,3,DAB,05,Antioquia,2,ANT
+233,Dagua,3,DAG,76,Valle del Cauca,2,VAL
+090,Dibulla,3,DIB,44,La Guajira,2,LA 
+098,Distraccion,3,DIS,44,La Guajira,2,LA 
+236,Dolores,3,DOL,73,Tolima,2,TOL
+237,Don Matias,3,DON,05,Antioquia,2,ANT
+170,Dos Quebradas,3,DOS,66,Risaralda,2,RIS
+238,Duitama,3,DUI,15,Boyaca,2,BOY
+239,Durania,3,DUR,54,Norte de Santander,2,NOR
+240,Ebejico,3,EBE,05,Antioquia,2,ANT
+250,El Bagre,3,EL ,05,Antioquia,2,ANT
+245,El Banco,3,EL ,47,Magdalena,2,MAG
+246,El Cairo,3,EL ,76,Valle del Cauca,2,VAL
+245,El Calvario,3,EL ,50,Meta,2,MET
+245,El Carmen,3,EL ,54,Norte de Santander,2,NOR
+235,El Carmen,3,EL ,68,Santander,2,SAN
+245,El Carmen de Atrato,3,EL ,27,Choco,2,CHO
+244,El Carmen de Bolivar,3,EL ,13,Bolivar,2,BOL
+251,El Castillo,3,EL ,50,Meta,2,MET
+248,El Cerrito,3,EL ,76,Valle del Cauca,2,VAL
+250,El Charco,3,EL ,52,Nariño,2,NAR
+244,El Cocuy,3,EL ,15,Boyaca,2,BOY
+245,El Colegio,3,EL ,25,Cundinamarca,2,CUN
+238,El Copey,3,EL ,20,Cesar,2,CES
+247,El Doncello,3,EL ,18,Caqueta,2,CAQ
+270,El Dorado,3,EL ,50,Meta,2,MET
+250,El Dovio,3,EL ,76,Valle del Cauca,2,VAL
+248,El Espino,3,EL ,15,Boyaca,2,BOY
+245,El Guacamayo,3,EL ,68,Santander,2,SAN
+248,El Guamo,3,EL ,13,Bolivar,2,BOL
+110,El Molino,3,EL ,44,La Guajira,2,LA 
+250,El Paso,3,EL ,20,Cesar,2,CES
+256,El Paujil,3,EL ,18,Caqueta,2,CAQ
+254,El Peñol,3,EL ,52,Nariño,2,NAR
+268,El Peñon,3,EL ,13,Bolivar,2,BOL
+250,El Peñon,3,EL ,68,Santander,2,SAN
+258,El Peñon,3,EL ,25,Cundinamarca,2,CUN
+258,El Piñon,3,EL ,47,Magdalena,2,MAG
+255,El Playon,3,EL ,68,Santander,2,SAN
+025,El Retorno,3,EL ,95,Guaviare,2,GUA
+268,El Reten,3,EL ,47,Magdalena,2,MAG
+233,El Roble,3,EL ,70,Sucre,2,SUC
+260,El Rosal,3,EL ,25,Cundinamarca,2,CUN
+256,El Rosario,3,EL ,52,Nariño,2,NAR
+258,El Tablon de Gomez,3,EL ,52,Nariño,2,NAR
+256,El Tambo,3,EL ,19,Cauca,2,CAU
+260,El Tambo,3,EL ,52,Nariño,2,NAR
+250,El Tarra,3,EL ,54,Norte de Santander,2,NOR
+261,El Zulia,3,EL ,54,Norte de Santander,2,NOR
+243,El Aguila,3,EL ,76,Valle del Cauca,2,VAL
+244,Elias,3,ELI,41,Huila,2,HUI
+264,Encino,3,ENC,68,Santander,2,SAN
+266,Enciso,3,ENC,68,Santander,2,SAN
+264,Entrerrios,3,ENT,05,Antioquia,2,ANT
+266,Envigado,3,ENV,05,Antioquia,2,ANT
+268,Espinal,3,ESP,73,Tolima,2,TOL
+269,Facatativa,3,FAC,25,Cundinamarca,2,CUN
+270,Falan,3,FAL,73,Tolima,2,TOL
+272,Filadelfia,3,FIL,17,Caldas,2,CAL
+272,Filandia,3,FIL,63,Quindio,2,QUI
+272,Firavitoba,3,FIR,15,Boyaca,2,BOY
+275,Flandes,3,FLA,73,Tolima,2,TOL
+001,Florencia,3,FLO,18,Caqueta,2,CAQ
+290,Florencia,3,FLO,19,Cauca,2,CAU
+276,Floresta,3,FLO,15,Boyaca,2,BOY
+275,Florida,3,FLO,76,Valle del Cauca,2,VAL
+276,Floridablanca,3,FLO,68,Santander,2,SAN
+271,Florian,3,FLO,68,Santander,2,SAN
+279,Fonseca,3,FON,44,La Guajira,2,LA 
+300,Fortul,3,FOR,81,Arauca,2,ARA
+281,Fosca,3,FOS,25,Cundinamarca,2,CUN
+520,Francisco Pizarro,3,FRA,52,Nariño,2,NAR
+282,Fredonia,3,FRE,05,Antioquia,2,ANT
+283,Fresno,3,FRE,73,Tolima,2,TOL
+284,Frontino,3,FRO,05,Antioquia,2,ANT
+287,Fuente de Oro,3,FUE,50,Meta,2,MET
+288,Fundacion,3,FUN,47,Magdalena,2,MAG
+287,Funes,3,FUN,52,Nariño,2,NAR
+286,Funza,3,FUN,25,Cundinamarca,2,CUN
+290,Fusagasuga,3,FUS,25,Cundinamarca,2,CUN
+279,Fomeque,3,FOM,25,Cundinamarca,2,CUN
+288,Fuquene,3,FUQ,25,Cundinamarca,2,CUN
+293,Gachala,3,GAC,25,Cundinamarca,2,CUN
+295,Gachancipa,3,GAC,25,Cundinamarca,2,CUN
+293,Gachantiva,3,GAC,15,Boyaca,2,BOY
+297,Gacheta,3,GAC,25,Cundinamarca,2,CUN
+296,Galapa,3,GAL,08,Atlantico,2,ATL
+235,Galeras (Nueva Granada),3,GAL,70,Sucre,2,SUC
+296,Galan,3,GAL,68,Santander,2,SAN
+299,Gama,3,GAM,25,Cundinamarca,2,CUN
+295,Gamarra,3,GAM,20,Cesar,2,CES
+299,Garagoa,3,GAR,15,Boyaca,2,BOY
+298,Garzon,3,GAR,41,Huila,2,HUI
+306,Gigante,3,GIG,41,Huila,2,HUI
+306,Ginebra,3,GIN,76,Valle del Cauca,2,VAL
+306,Giraldo,3,GIR,05,Antioquia,2,ANT
+307,Girardot,3,GIR,25,Cundinamarca,2,CUN
+308,Girardota,3,GIR,05,Antioquia,2,ANT
+306,Giron,3,GIR,68,Santander,2,SAN
+310,Gonzalez,3,GON,20,Cesar,2,CES
+313,Gramalote,3,GRA,54,Norte de Santander,2,NOR
+313,Granada,3,GRA,05,Antioquia,2,ANT
+312,Granada,3,GRA,25,Cundinamarca,2,CUN
+313,Granada,3,GRA,50,Meta,2,MET
+318,Guaca,3,GUA,68,Santander,2,SAN
+317,Guacamayas,3,GUA,15,Boyaca,2,BOY
+318,Guacari,3,GUA,76,Valle del Cauca,2,VAL
+699,Guachaves,3,GUA,52,Nariño,2,NAR
+300,Guachene,3,GUA,19,Cauca,2,CAU
+317,Guacheta,3,GUA,25,Cundinamarca,2,CUN
+317,Guachucal,3,GUA,52,Nariño,2,NAR
+315,Guadalupe,3,GUA,05,Antioquia,2,ANT
+319,Guadalupe,3,GUA,41,Huila,2,HUI
+320,Guadalupe,3,GUA,68,Santander,2,SAN
+320,Guaduas,3,GUA,25,Cundinamarca,2,CUN
+320,Guaitarilla,3,GUA,52,Nariño,2,NAR
+323,Gualmatan,3,GUA,52,Nariño,2,NAR
+318,Guamal,3,GUA,47,Magdalena,2,MAG
+318,Guamal,3,GUA,50,Meta,2,MET
+319,Guamo,3,GUA,73,Tolima,2,TOL
+322,Guapota,3,GUA,68,Santander,2,SAN
+318,Guapi,3,GUA,19,Cauca,2,CAU
+265,Guaranda,3,GUA,70,Sucre,2,SUC
+318,Guarne,3,GUA,05,Antioquia,2,ANT
+322,Guasca,3,GUA,25,Cundinamarca,2,CUN
+321,Guatape,3,GUA,05,Antioquia,2,ANT
+324,Guataqui,3,GUA,25,Cundinamarca,2,CUN
+326,Guatavita,3,GUA,25,Cundinamarca,2,CUN
+322,Guateque,3,GUA,15,Boyaca,2,BOY
+324,Guavata,3,GUA,68,Santander,2,SAN
+328,Guayabal de Siquima,3,GUA,25,Cundinamarca,2,CUN
+335,Guayabetal,3,GUA,25,Cundinamarca,2,CUN
+325,Guayata,3,GUA,15,Boyaca,2,BOY
+327,Guepsa,3,GUE,68,Santander,2,SAN
+332,Guican,3,GUI,15,Boyaca,2,BOY
+339,Gutierrez,3,GUT,25,Cundinamarca,2,CUN
+318,Guatica,3,GUA,66,Risaralda,2,RIS
+298,Gambita,3,GAM,68,Santander,2,SAN
+296,Gameza,3,GAM,15,Boyaca,2,BOY
+302,Genova,3,GEN,63,Quindio,2,QUI
+310,Gomez Plata,3,GOM,05,Antioquia,2,ANT
+344,Hacari,3,HAC,54,Norte de Santander,2,NOR
+300,Hatillo de Loba,3,HAT,13,Bolivar,2,BOL
+344,Hato,3,HAT,68,Santander,2,SAN
+125,Hato Corozal,3,HAT,85,Casanare,2,CAS
+378,Hatonuevo,3,HAT,44,La Guajira,2,LA 
+347,Heliconia,3,HEL,05,Antioquia,2,ANT
+347,Herran,3,HER,54,Norte de Santander,2,NOR
+347,Herveo,3,HER,73,Tolima,2,TOL
+353,Hispania,3,HIS,05,Antioquia,2,ANT
+349,Hobo,3,HOB,41,Huila,2,HUI
+349,Honda,3,HON,73,Tolima,2,TOL
+001,Ibague,3,IBA,73,Tolima,2,TOL
+352,Icononzo,3,ICO,73,Tolima,2,TOL
+352,Iles,3,ILE,52,Nariño,2,NAR
+354,Imues,3,IMU,52,Nariño,2,NAR
+355,Inza,3,INZ,19,Cauca,2,CAU
+001,Inirida,3,INI,94,Guainia,2,GUA
+356,Ipiales,3,IPI,52,Nariño,2,NAR
+359,Isnos,3,ISN,41,Huila,2,HUI
+361,Istmina,3,IST,27,Choco,2,CHO
+360,Itagüi,3,ITA,05,Antioquia,2,ANT
+361,Ituango,3,ITU,05,Antioquia,2,ANT
+362,Iza,3,IZA,15,Boyaca,2,BOY
+364,Jambalo,3,JAM,19,Cauca,2,CAU
+364,Jamundi,3,JAM,76,Valle del Cauca,2,VAL
+364,Jardin,3,JAR,05,Antioquia,2,ANT
+367,Jenesano,3,JEN,15,Boyaca,2,BOY
+368,Jerico,3,JER,05,Antioquia,2,ANT
+368,Jerico,3,JER,15,Boyaca,2,BOY
+368,Jerusalen,3,JER,25,Cundinamarca,2,CUN
+368,Jesus Maria,3,JES,68,Santander,2,SAN
+370,Jordan,3,JOR,68,Santander,2,SAN
+132,Juan de Acosta,3,JUA,08,Atlantico,2,ATL
+372,Junin,3,JUN,25,Cundinamarca,2,CUN
+372,Jurado,3,JUR,27,Choco,2,CHO
+350,La Apartada y La Frontera,3,LA ,23,Cordoba,2,COR
+378,La Argentina,3,LA ,41,Huila,2,HUI
+377,La Belleza,3,LA ,68,Santander,2,SAN
+377,La Calera,3,LA ,25,Cundinamarca,2,CUN
+380,La Capilla,3,LA ,15,Boyaca,2,BOY
+376,La Ceja,3,LA ,05,Antioquia,2,ANT
+383,La Celia,3,LA ,66,Risaralda,2,RIS
+378,La Cruz,3,LA ,52,Nariño,2,NAR
+677,La Cumbre,3,LA ,76,Valle del Cauca,2,VAL
+380,La Dorada,3,LA ,17,Caldas,2,CAL
+385,La Esperanza,3,LA ,54,Norte de Santander,2,NOR
+380,La Estrella,3,LA ,05,Antioquia,2,ANT
+381,La Florida,3,LA ,52,Nariño,2,NAR
+383,La Gloria,3,LA ,20,Cesar,2,CES
+400,La Jagua de Ibirico,3,LA ,20,Cesar,2,CES
+420,La Jagua del Pilar,3,LA ,44,La Guajira,2,LA 
+385,La Llanada,3,LA ,52,Nariño,2,NAR
+350,La Macarena,3,LA ,50,Meta,2,MET
+388,La Merced,3,LA ,17,Caldas,2,CAL
+386,La Mesa,3,LA ,25,Cundinamarca,2,CUN
+410,La Montañita,3,LA ,18,Caqueta,2,CAQ
+394,La Palma,3,LA ,25,Cundinamarca,2,CUN
+397,La Paz,3,LA ,68,Santander,2,SAN
+621,La Paz (Robles),3,LA ,20,Cesar,2,CES
+398,La Peña,3,LA ,25,Cundinamarca,2,CUN
+390,La Pintada,3,LA ,05,Antioquia,2,ANT
+396,La Plata,3,LA ,41,Huila,2,HUI
+398,La Playa,3,LA ,54,Norte de Santander,2,NOR
+524,La Primavera,3,LA ,99,Vichada,2,VIC
+136,La Salina,3,LA ,85,Casanare,2,CAS
+392,La Sierra,3,LA ,19,Cauca,2,CAU
+401,La Tebaida,3,LA ,63,Quindio,2,QUI
+390,La Tola,3,LA ,52,Nariño,2,NAR
+400,La Union,3,LA ,05,Antioquia,2,ANT
+399,La Union,3,LA ,52,Nariño,2,NAR
+400,La Union,3,LA ,70,Sucre,2,SUC
+400,La Union,3,LA ,76,Valle del Cauca,2,VAL
+403,La Uvita,3,LA ,15,Boyaca,2,BOY
+397,La Vega,3,LA ,19,Cauca,2,CAU
+402,La Vega,3,LA ,25,Cundinamarca,2,CUN
+401,La Victoria,3,LA ,15,Boyaca,2,BOY
+867,La Victoria,3,LA ,17,Caldas,2,CAL
+403,La Victoria,3,LA ,76,Valle del Cauca,2,VAL
+400,La Virginia,3,LA ,66,Risaralda,2,RIS
+377,Labateca,3,LAB,54,Norte de Santander,2,NOR
+377,Labranzagrande,3,LAB,15,Boyaca,2,BOY
+385,Landazuri,3,LAN,68,Santander,2,SAN
+406,Lebrija,3,LEB,68,Santander,2,SAN
+405,Leiva,3,LEI,52,Nariño,2,NAR
+400,Lejanias,3,LEJ,50,Meta,2,MET
+407,Lenguazaque,3,LEN,25,Cundinamarca,2,CUN
+001,Leticia,3,LET,91,Amazonas,2,AMA
+411,Liborina,3,LIB,05,Antioquia,2,ANT
+411,Linares,3,LIN,52,Nariño,2,NAR
+413,Lloro,3,LLO,27,Choco,2,CHO
+417,Lorica,3,LOR,23,Cordoba,2,COR
+419,Los Cordobas,3,LOS,23,Cordoba,2,COR
+418,Los Palmitos,3,LOS,70,Sucre,2,SUC
+405,Los Patios,3,LOS,54,Norte de Santander,2,NOR
+418,Los Santos,3,LOS,68,Santander,2,SAN
+418,Lourdes,3,LOU,54,Norte de Santander,2,NOR
+421,Luruaco,3,LUR,08,Atlantico,2,ATL
+408,Lerida,3,LER,73,Tolima,2,TOL
+411,Libano,3,LIB,73,Tolima,2,TOL
+418,Lopez (Micay),3,LOP,19,Cauca,2,CAU
+425,Macanal,3,MAC,15,Boyaca,2,BOY
+425,Macaravita,3,MAC,68,Santander,2,SAN
+425,Maceo,3,MAC,05,Antioquia,2,ANT
+426,Macheta,3,MAC,25,Cundinamarca,2,CUN
+430,Madrid,3,MAD,25,Cundinamarca,2,CUN
+430,Magangue,3,MAG,13,Bolivar,2,BOL
+427,Magüi (Payan),3,MAG,52,Nariño,2,NAR
+433,Mahates,3,MAH,13,Bolivar,2,BOL
+430,Maicao,3,MAI,44,La Guajira,2,LA 
+429,Majagual,3,MAJ,70,Sucre,2,SUC
+433,Malambo,3,MAL,08,Atlantico,2,ATL
+435,Mallama (Piedrancha),3,MAL,52,Nariño,2,NAR
+436,Manati,3,MAN,08,Atlantico,2,ATL
+560,Manaure,3,MAN,44,La Guajira,2,LA 
+443,Manaure Balcon del Cesar,3,MAN,20,Cesar,2,CES
+001,Manizales,3,MAN,17,Caldas,2,CAL
+436,Manta,3,MAN,25,Cundinamarca,2,CUN
+433,Manzanares,3,MAN,17,Caldas,2,CAL
+139,Mani,3,MAN,85,Casanare,2,CAS
+325,Mapiripan,3,MAP,50,Meta,2,MET
+440,Margarita,3,MAR,13,Bolivar,2,BOL
+440,Marinilla,3,MAR,05,Antioquia,2,ANT
+442,Maripi,3,MAR,15,Boyaca,2,BOY
+443,Mariquita,3,MAR,73,Tolima,2,TOL
+442,Marmato,3,MAR,17,Caldas,2,CAL
+444,Marquetalia,3,MAR,17,Caldas,2,CAL
+440,Marsella,3,MAR,66,Risaralda,2,RIS
+446,Marulanda,3,MAR,17,Caldas,2,CAL
+442,Maria la Baja,3,MAR,13,Bolivar,2,BOL
+444,Matanza,3,MAT,68,Santander,2,SAN
+001,Medellin,3,MED,05,Antioquia,2,ANT
+438,Medina,3,MED,25,Cundinamarca,2,CUN
+425,Medio Atrato,3,MED,27,Choco,2,CHO
+430,Medio Baudo,3,MED,27,Choco,2,CHO
+450,Medio San Juan (ANDAGOYA),3,MED,27,Choco,2,CHO
+449,Melgar,3,MEL,73,Tolima,2,TOL
+450,Mercaderes,3,MER,19,Cauca,2,CAU
+330,Mesetas,3,MES,50,Meta,2,MET
+460,Milan,3,MIL,18,Caqueta,2,CAQ
+455,Miraflores,3,MIR,15,Boyaca,2,BOY
+200,Miraflores,3,MIR,95,Guaviare,2,GUA
+455,Miranda,3,MIR,19,Cauca,2,CAU
+456,Mistrato,3,MIS,66,Risaralda,2,RIS
+001,Mitu,3,MIT,97,Vaupes,2,VAU
+001,Mocoa,3,MOC,86,Putumayo,2,PUT
+464,Mogotes,3,MOG,68,Santander,2,SAN
+468,Molagavita,3,MOL,68,Santander,2,SAN
+464,Momil,3,MOM,23,Cordoba,2,COR
+468,Mompos,3,MOM,13,Bolivar,2,BOL
+464,Mongua,3,MON,15,Boyaca,2,BOY
+466,Mongui,3,MON,15,Boyaca,2,BOY
+469,Moniquira,3,MON,15,Boyaca,2,BOY
+467,Montebello,3,MON,05,Antioquia,2,ANT
+458,Montecristo,3,MON,13,Bolivar,2,BOL
+466,Montelibano,3,MON,23,Cordoba,2,COR
+470,Montenegro,3,MON,63,Quindio,2,QUI
+001,Monteria,3,MON,23,Cordoba,2,COR
+162,Monterrey,3,MON,85,Casanare,2,CAS
+473,Morales,3,MOR,13,Bolivar,2,BOL
+473,Morales,3,MOR,19,Cauca,2,CAU
+479,Morelia,3,MOR,18,Caqueta,2,CAQ
+473,Morroa,3,MOR,70,Sucre,2,SUC
+473,Mosquera,3,MOS,25,Cundinamarca,2,CUN
+473,Mosquera,3,MOS,52,Nariño,2,NAR
+476,Motavita,3,MOT,15,Boyaca,2,BOY
+500,Moñitos,3,MO�,23,Cordoba,2,COR
+461,Murillo,3,MUR,73,Tolima,2,TOL
+475,Murindo,3,MUR,05,Antioquia,2,ANT
+480,Mutata,3,MUT,05,Antioquia,2,ANT
+480,Mutiscua,3,MUT,54,Norte de Santander,2,NOR
+480,Muzo,3,MUZ,15,Boyaca,2,BOY
+432,Malaga,3,MAL,68,Santander,2,SAN
+483,Nariño,3,NAR,05,Antioquia,2,ANT
+483,Nariño,3,NAR,25,Cundinamarca,2,CUN
+480,Nariño,3,NAR,52,Nariño,2,NAR
+483,Natagaima,3,NAT,73,Tolima,2,TOL
+495,Nechi,3,NEC,05,Antioquia,2,ANT
+490,Necocli,3,NEC,05,Antioquia,2,ANT
+486,Neira,3,NEI,17,Caldas,2,CAL
+001,Neiva,3,NEI,41,Huila,2,HUI
+486,Nemocon,3,NEM,25,Cundinamarca,2,CUN
+488,Nilo,3,NIL,25,Cundinamarca,2,CUN
+489,Nimaima,3,NIM,25,Cundinamarca,2,CUN
+491,Nobsa,3,NOB,15,Boyaca,2,BOY
+491,Nocaima,3,NOC,25,Cundinamarca,2,CUN
+495,Norcasia,3,NOR,17,Caldas,2,CAL
+490,Norosi,3,NOR,13,Bolivar,2,BOL
+491,Novita,3,NOV,27,Choco,2,CHO
+460,Nueva Granada,3,NUE,47,Magdalena,2,MAG
+494,Nuevo Colon,3,NUE,15,Boyaca,2,BOY
+225,Nunchia,3,NUN,85,Casanare,2,CAS
+495,Nuqui,3,NUQ,27,Choco,2,CHO
+483,Nataga,3,NAT,41,Huila,2,HUI
+497,Obando,3,OBA,76,Valle del Cauca,2,VAL
+498,Ocamonte,3,OCA,68,Santander,2,SAN
+498,Ocaña,3,OCA,54,Norte de Santander,2,NOR
+500,Oiba,3,OIB,68,Santander,2,SAN
+500,Oicata,3,OIC,15,Boyaca,2,BOY
+501,Olaya,3,OLA,05,Antioquia,2,ANT
+490,Olaya Herrera,3,OLA,52,Nariño,2,NAR
+502,Onzaga,3,ONZ,68,Santander,2,SAN
+503,Oporapa,3,OPO,41,Huila,2,HUI
+320,Orito,3,ORI,86,Putumayo,2,PUT
+230,Orocue,3,ORO,85,Casanare,2,CAS
+504,Ortega,3,ORT,73,Tolima,2,TOL
+506,Ospina,3,OSP,52,Nariño,2,NAR
+507,Otanche,3,OTA,15,Boyaca,2,BOY
+508,Ovejas,3,OVE,70,Sucre,2,SUC
+511,Pachavita,3,PAC,15,Boyaca,2,BOY
+513,Pacho,3,PAC,25,Cundinamarca,2,CUN
+513,Padilla,3,PAD,19,Cauca,2,CAU
+518,Paicol,3,PAI,41,Huila,2,HUI
+517,Pailitas,3,PAI,20,Cesar,2,CES
+518,Paime,3,PAI,25,Cundinamarca,2,CUN
+516,Paipa,3,PAI,15,Boyaca,2,BOY
+518,Pajarito,3,PAJ,15,Boyaca,2,BOY
+524,Palermo,3,PAL,41,Huila,2,HUI
+524,Palestina,3,PAL,17,Caldas,2,CAL
+530,Palestina,3,PAL,41,Huila,2,HUI
+522,Palmar,3,PAL,68,Santander,2,SAN
+520,Palmar de Varela,3,PAL,08,Atlantico,2,ATL
+524,Palmas del Socorro,3,PAL,68,Santander,2,SAN
+520,Palmira,3,PAL,76,Valle del Cauca,2,VAL
+523,Palmito,3,PAL,70,Sucre,2,SUC
+520,Palocabildo,3,PAL,73,Tolima,2,TOL
+518,Pamplona,3,PAM,54,Norte de Santander,2,NOR
+520,Pamplonita,3,PAM,54,Norte de Santander,2,NOR
+524,Pandi,3,PAN,25,Cundinamarca,2,CUN
+522,Panqueba,3,PAN,15,Boyaca,2,BOY
+530,Paratebueno,3,PAR,25,Cundinamarca,2,CUN
+535,Pasca,3,PAS,25,Cundinamarca,2,CUN
+532,Patia (El Bordo),3,PAT,19,Cauca,2,CAU
+531,Pauna,3,PAU,15,Boyaca,2,BOY
+532,Paya,3,PAY,15,Boyaca,2,BOY
+250,Paz de Ariporo,3,PAZ,85,Casanare,2,CAS
+537,Paz de Rio,3,PAZ,15,Boyaca,2,BOY
+441,Pedraza,3,PED,47,Magdalena,2,MAG
+550,Pelaya,3,PEL,20,Cesar,2,CES
+541,Pensilvania,3,PEN,17,Caldas,2,CAL
+543,Peque,3,PEQ,05,Antioquia,2,ANT
+001,Pereira,3,PER,66,Risaralda,2,RIS
+542,Pesca,3,PES,15,Boyaca,2,BOY
+541,Peñol,3,PE�,05,Antioquia,2,ANT
+533,Piamonte,3,PIA,19,Cauca,2,CAU
+547,Pie de Cuesta,3,PIE,68,Santander,2,SAN
+547,Piedras,3,PIE,73,Tolima,2,TOL
+548,Piendamo,3,PIE,19,Cauca,2,CAU
+548,Pijao,3,PIJ,63,Quindio,2,QUI
+545,Pijiño,3,PIJ,47,Magdalena,2,MAG
+549,Pinchote,3,PIN,68,Santander,2,SAN
+549,Pinillos,3,PIN,13,Bolivar,2,BOL
+549,Piojo,3,PIO,08,Atlantico,2,ATL
+550,Pisva,3,PIS,15,Boyaca,2,BOY
+548,Pital,3,PIT,41,Huila,2,HUI
+551,Pitalito,3,PIT,41,Huila,2,HUI
+551,Pivijay,3,PIV,47,Magdalena,2,MAG
+555,Planadas,3,PLA,73,Tolima,2,TOL
+555,Planeta Rica,3,PLA,23,Cordoba,2,COR
+555,Plato,3,PLA,47,Magdalena,2,MAG
+540,Policarpa,3,POL,52,Nariño,2,NAR
+558,Polonuevo,3,POL,08,Atlantico,2,ATL
+560,Ponedera,3,PON,08,Atlantico,2,ATL
+001,Popayan,3,POP,19,Cauca,2,CAU
+263,Pore,3,POR,85,Casanare,2,CAS
+560,Potosi,3,POT,52,Nariño,2,NAR
+563,Pradera,3,PRA,76,Valle del Cauca,2,VAL
+563,Prado,3,PRA,73,Tolima,2,TOL
+565,Providencia,3,PRO,52,Nariño,2,NAR
+564,Providencia,3,PRO,88,San Andres,2,SAN
+570,Pueblo Bello,3,PUE,20,Cesar,2,CES
+570,Pueblo Nuevo,3,PUE,23,Cordoba,2,COR
+572,Pueblo Rico,3,PUE,66,Risaralda,2,RIS
+576,Pueblorrico,3,PUE,05,Antioquia,2,ANT
+570,Puebloviejo,3,PUE,47,Magdalena,2,MAG
+572,Puente Nacional,3,PUE,68,Santander,2,SAN
+573,Puerres,3,PUE,52,Nariño,2,NAR
+568,Puerto Asis,3,PUE,86,Putumayo,2,PUT
+579,Puerto Berrio,3,PUE,05,Antioquia,2,ANT
+572,Puerto Boyaca,3,PUE,15,Boyaca,2,BOY
+569,Puerto Caicedo,3,PUE,86,Putumayo,2,PUT
+001,Puerto Carreño,3,PUE,99,Vichada,2,VIC
+573,Puerto Colombia,3,PUE,08,Atlantico,2,ATL
+450,Puerto Concordia,3,PUE,50,Meta,2,MET
+574,Puerto Escondido,3,PUE,23,Cordoba,2,COR
+568,Puerto Gaitan,3,PUE,50,Meta,2,MET
+571,Puerto Guzman,3,PUE,86,Putumayo,2,PUT
+573,Puerto Leguizamo,3,PUE,86,Putumayo,2,PUT
+580,Puerto Libertador,3,PUE,23,Cordoba,2,COR
+577,Puerto Lleras,3,PUE,50,Meta,2,MET
+573,Puerto Lopez,3,PUE,50,Meta,2,MET
+585,Puerto Nare,3,PUE,05,Antioquia,2,ANT
+540,Puerto Nariño,3,PUE,91,Amazonas,2,AMA
+573,Puerto Parra,3,PUE,68,Santander,2,SAN
+592,Puerto Rico,3,PUE,18,Caqueta,2,CAQ
+590,Puerto Rico,3,PUE,50,Meta,2,MET
+591,Puerto Rondon,3,PUE,81,Arauca,2,ARA
+572,Puerto Salgar,3,PUE,25,Cundinamarca,2,CUN
+553,Puerto Santander,3,PUE,54,Norte de Santander,2,NOR
+573,Puerto Tejada,3,PUE,19,Cauca,2,CAU
+591,Puerto Triunfo,3,PUE,05,Antioquia,2,ANT
+575,Puerto Wilches,3,PUE,68,Santander,2,SAN
+580,Puli,3,PUL,25,Cundinamarca,2,CUN
+585,Pupiales,3,PUP,52,Nariño,2,NAR
+585,Purace (Coconuco),3,PUR,19,Cauca,2,CAU
+585,Purificacion,3,PUR,73,Tolima,2,TOL
+586,Purisima,3,PUR,23,Cordoba,2,COR
+513,Pacora,3,PAC,17,Caldas,2,CAL
+514,Paez,3,PAE,15,Boyaca,2,BOY
+517,Paez (Belalcazar),3,PAE,19,Cauca,2,CAU
+533,Paramo,3,PAR,68,Santander,2,SAN
+592,Quebradanegra,3,QUE,25,Cundinamarca,2,CUN
+594,Quetame,3,QUE,25,Cundinamarca,2,CUN
+001,Quibdo,3,QUI,27,Choco,2,CHO
+594,Quimbaya,3,QUI,63,Quindio,2,QUI
+594,Quinchia,3,QUI,66,Risaralda,2,RIS
+580,Quipama,3,QUI,15,Boyaca,2,BOY
+596,Quipile,3,QUI,25,Cundinamarca,2,CUN
+599,Ragonvalia,3,RAG,54,Norte de Santander,2,NOR
+599,Ramiriqui,3,RAM,15,Boyaca,2,BOY
+279,Recetor,3,REC,85,Casanare,2,CAS
+580,Regidor,3,REG,13,Bolivar,2,BOL
+604,Remedios,3,REM,05,Antioquia,2,ANT
+605,Remolino,3,REM,47,Magdalena,2,MAG
+606,Repelon,3,REP,08,Atlantico,2,ATL
+606,Restrepo,3,RES,50,Meta,2,MET
+606,Restrepo,3,RES,76,Valle del Cauca,2,VAL
+607,Retiro,3,RET,05,Antioquia,2,ANT
+612,Ricaurte,3,RIC,25,Cundinamarca,2,CUN
+612,Ricaurte,3,RIC,52,Nariño,2,NAR
+615,Rio Negro,3,RIO,68,Santander,2,SAN
+616,Rioblanco,3,RIO,73,Tolima,2,TOL
+616,Riofrio,3,RIO,76,Valle del Cauca,2,VAL
+001,Riohacha,3,RIO,44,La Guajira,2,LA 
+616,Risaralda,3,RIS,17,Caldas,2,CAL
+615,Rivera,3,RIV,41,Huila,2,HUI
+621,Roberto Payan (San Jose),3,ROB,52,Nariño,2,NAR
+622,Roldanillo,3,ROL,76,Valle del Cauca,2,VAL
+622,Roncesvalles,3,RON,73,Tolima,2,TOL
+621,Rondon,3,RON,15,Boyaca,2,BOY
+622,Rosas,3,ROS,19,Cauca,2,CAU
+624,Rovira,3,ROV,73,Tolima,2,TOL
+600,Raquira,3,RAQ,15,Boyaca,2,BOY
+580,Rio Iro,3,RIO,27,Choco,2,CHO
+600,Rio Quito,3,RIO,27,Choco,2,CHO
+614,Rio Sucio,3,RIO,17,Caldas,2,CAL
+600,Rio Viejo,3,RIO,13,Bolivar,2,BOL
+614,Rio de oro,3,RIO,20,Cesar,2,CES
+615,Rionegro,3,RIO,05,Antioquia,2,ANT
+615,Riosucio,3,RIO,27,Choco,2,CHO
+655,Sabana de Torres,3,SAB,68,Santander,2,SAN
+634,Sabanagrande,3,SAB,08,Atlantico,2,ATL
+628,Sabanalarga,3,SAB,05,Antioquia,2,ANT
+638,Sabanalarga,3,SAB,08,Atlantico,2,ATL
+300,Sabanalarga,3,SAB,85,Casanare,2,CAS
+660,Sabanas de San Angel (SAN ANGEL),3,SAB,47,Magdalena,2,MAG
+631,Sabaneta,3,SAB,05,Antioquia,2,ANT
+632,Saboya,3,SAB,15,Boyaca,2,BOY
+660,Sahagun,3,SAH,23,Cordoba,2,COR
+660,Saladoblanco,3,SAL,41,Huila,2,HUI
+653,Salamina,3,SAL,17,Caldas,2,CAL
+675,Salamina,3,SAL,47,Magdalena,2,MAG
+660,Salazar,3,SAL,54,Norte de Santander,2,NOR
+671,Saldaña,3,SAL,73,Tolima,2,TOL
+690,Salento,3,SAL,63,Quindio,2,QUI
+642,Salgar,3,SAL,05,Antioquia,2,ANT
+646,Samaca,3,SAM,15,Boyaca,2,BOY
+678,Samaniego,3,SAM,52,Nariño,2,NAR
+662,Samana,3,SAM,17,Caldas,2,CAL
+670,Sampues,3,SAM,70,Sucre,2,SUC
+668,San Agustin,3,SAN,41,Huila,2,HUI
+710,San Alberto,3,SAN,20,Cesar,2,CES
+669,San Andres,3,SAN,68,Santander,2,SAN
+670,San Andres Sotavento,3,SAN,23,Cordoba,2,COR
+647,San Andres de Cuerquia,3,SAN,05,Antioquia,2,ANT
+672,San Antero,3,SAN,23,Cordoba,2,COR
+675,San Antonio,3,SAN,73,Tolima,2,TOL
+645,San Antonio de Tequendama,3,SAN,25,Cundinamarca,2,CUN
+673,San Benito,3,SAN,68,Santander,2,SAN
+678,San Benito Abad,3,SAN,70,Sucre,2,SUC
+649,San Bernardo,3,SAN,25,Cundinamarca,2,CUN
+685,San Bernardo,3,SAN,52,Nariño,2,NAR
+675,San Bernardo del Viento,3,SAN,23,Cordoba,2,COR
+670,San Calixto,3,SAN,54,Norte de Santander,2,NOR
+649,San Carlos,3,SAN,05,Antioquia,2,ANT
+678,San Carlos,3,SAN,23,Cordoba,2,COR
+680,San Carlos de Guaroa,3,SAN,50,Meta,2,MET
+653,San Cayetano,3,SAN,25,Cundinamarca,2,CUN
+673,San Cayetano,3,SAN,54,Norte de Santander,2,NOR
+620,San Cristobal,3,SAN,13,Bolivar,2,BOL
+750,San Diego,3,SAN,20,Cesar,2,CES
+660,San Eduardo,3,SAN,15,Boyaca,2,BOY
+647,San Estanislao,3,SAN,13,Bolivar,2,BOL
+650,San Fernando,3,SAN,13,Bolivar,2,BOL
+652,San Francisco,3,SAN,05,Antioquia,2,ANT
+658,San Francisco,3,SAN,25,Cundinamarca,2,CUN
+755,San Francisco,3,SAN,86,Putumayo,2,PUT
+679,San Gil,3,SAN,68,Santander,2,SAN
+654,San Jacinto,3,SAN,13,Bolivar,2,BOL
+655,San Jacinto del Cauca,3,SAN,13,Bolivar,2,BOL
+656,San Jeronimo,3,SAN,05,Antioquia,2,ANT
+682,San Joaquin,3,SAN,68,Santander,2,SAN
+665,San Jose,3,SAN,17,Caldas,2,CAL
+686,San Jose de Miranda,3,SAN,68,Santander,2,SAN
+658,San Jose de Montaña,3,SAN,05,Antioquia,2,ANT
+664,San Jose de Pare,3,SAN,15,Boyaca,2,BOY
+682,San Jose de Ure,3,SAN,23,Cordoba,2,COR
+610,San Jose del Fragua,3,SAN,18,Caqueta,2,CAQ
+001,San Jose del Guaviare,3,SAN,95,Guaviare,2,GUA
+660,San Jose del Palmar,3,SAN,27,Choco,2,CHO
+683,San Juan de Arama,3,SAN,50,Meta,2,MET
+702,San Juan de Betulia,3,SAN,70,Sucre,2,SUC
+657,San Juan de Nepomuceno,3,SAN,13,Bolivar,2,BOL
+001,San Juan de Pasto,3,SAN,52,Nariño,2,NAR
+662,San Juan de Rio Seco,3,SAN,25,Cundinamarca,2,CUN
+659,San Juan de Uraba,3,SAN,05,Antioquia,2,ANT
+650,San Juan del Cesar,3,SAN,44,La Guajira,2,LA 
+686,San Juanito,3,SAN,50,Meta,2,MET
+687,San Lorenzo,3,SAN,52,Nariño,2,NAR
+678,San Luis,3,SAN,73,Tolima,2,TOL
+660,San Luis,3,SAN,05,Antioquia,2,ANT
+667,San Luis de Gaceno,3,SAN,15,Boyaca,2,BOY
+325,San Luis de Palenque,3,SAN,85,Casanare,2,CAS
+708,San Marcos,3,SAN,70,Sucre,2,SUC
+770,San Martin,3,SAN,20,Cesar,2,CES
+689,San Martin,3,SAN,50,Meta,2,MET
+667,San Martin de Loba,3,SAN,13,Bolivar,2,BOL
+673,San Mateo,3,SAN,15,Boyaca,2,BOY
+684,San Miguel,3,SAN,68,Santander,2,SAN
+757,San Miguel,3,SAN,86,Putumayo,2,PUT
+676,San Miguel de Sema,3,SAN,15,Boyaca,2,BOY
+713,San Onofre,3,SAN,70,Sucre,2,SUC
+670,San Pablo,3,SAN,13,Bolivar,2,BOL
+693,San Pablo,3,SAN,52,Nariño,2,NAR
+681,San Pablo de Borbur,3,SAN,15,Boyaca,2,BOY
+664,San Pedro,3,SAN,05,Antioquia,2,ANT
+717,San Pedro,3,SAN,70,Sucre,2,SUC
+670,San Pedro,3,SAN,76,Valle del Cauca,2,VAL
+694,San Pedro de Cartago,3,SAN,52,Nariño,2,NAR
+665,San Pedro de Uraba,3,SAN,05,Antioquia,2,ANT
+686,San Pelayo,3,SAN,23,Cordoba,2,COR
+667,San Rafael,3,SAN,05,Antioquia,2,ANT
+670,San Roque,3,SAN,05,Antioquia,2,ANT
+693,San Sebastian,3,SAN,19,Cauca,2,CAU
+692,San Sebastian de Buenavista,3,SAN,47,Magdalena,2,MAG
+674,San Vicente,3,SAN,05,Antioquia,2,ANT
+753,San Vicente del Caguan,3,SAN,18,Caqueta,2,CAQ
+689,San Vicente del Chucuri,3,SAN,68,Santander,2,SAN
+703,San Zenon,3,SAN,47,Magdalena,2,MAG
+683,Sandona,3,SAN,52,Nariño,2,NAR
+707,Santa Ana,3,SAN,47,Magdalena,2,MAG
+679,Santa Barbara,3,SAN,05,Antioquia,2,ANT
+705,Santa Barbara,3,SAN,68,Santander,2,SAN
+695,Santa Barbara (Iscuande),3,SAN,52,Nariño,2,NAR
+720,Santa Barbara de Pinto,3,SAN,47,Magdalena,2,MAG
+673,Santa Catalina,3,SAN,13,Bolivar,2,BOL
+042,Santa Fe de Antioquia,3,SAN,05,Antioquia,2,ANT
+250,Santa Genoveva de Docorodo,3,SAN,27,Choco,2,CHO
+720,Santa Helena del Opon,3,SAN,68,Santander,2,SAN
+686,Santa Isabel,3,SAN,73,Tolima,2,TOL
+675,Santa Lucia,3,SAN,08,Atlantico,2,ATL
+001,Santa Marta,3,SAN,47,Magdalena,2,MAG
+690,Santa Maria,3,SAN,15,Boyaca,2,BOY
+676,Santa Maria,3,SAN,41,Huila,2,HUI
+683,Santa Rosa,3,SAN,13,Bolivar,2,BOL
+701,Santa Rosa,3,SAN,19,Cauca,2,CAU
+682,Santa Rosa de Cabal,3,SAN,66,Risaralda,2,RIS
+686,Santa Rosa de Osos,3,SAN,05,Antioquia,2,ANT
+693,Santa Rosa de Viterbo,3,SAN,15,Boyaca,2,BOY
+688,Santa Rosa del Sur,3,SAN,13,Bolivar,2,BOL
+624,Santa Rosalia,3,SAN,99,Vichada,2,VIC
+696,Santa Sofia,3,SAN,15,Boyaca,2,BOY
+686,Santana,3,SAN,15,Boyaca,2,BOY
+698,Santander de Quilichao,3,SAN,19,Cauca,2,CAU
+680,Santiago,3,SAN,54,Norte de Santander,2,NOR
+760,Santiago,3,SAN,86,Putumayo,2,PUT
+690,Santo Domingo,3,SAN,05,Antioquia,2,ANT
+685,Santo Tomas,3,SAN,08,Atlantico,2,ATL
+697,Santuario,3,SAN,05,Antioquia,2,ANT
+687,Santuario,3,SAN,66,Risaralda,2,RIS
+720,Sapuyes,3,SAP,52,Nariño,2,NAR
+736,Saravena,3,SAR,81,Arauca,2,ARA
+720,Sardinata,3,SAR,54,Norte de Santander,2,NOR
+718,Sasaima,3,SAS,25,Cundinamarca,2,CUN
+720,Sativanorte,3,SAT,15,Boyaca,2,BOY
+723,Sativasur,3,SAT,15,Boyaca,2,BOY
+736,Segovia,3,SEG,05,Antioquia,2,ANT
+736,Sesquile,3,SES,25,Cundinamarca,2,CUN
+736,Sevilla,3,SEV,76,Valle del Cauca,2,VAL
+740,Siachoque,3,SIA,15,Boyaca,2,BOY
+740,Sibate,3,SIB,25,Cundinamarca,2,CUN
+749,Sibundoy,3,SIB,86,Putumayo,2,PUT
+743,Silos,3,SIL,54,Norte de Santander,2,NOR
+743,Silvania,3,SIL,25,Cundinamarca,2,CUN
+743,Silvia,3,SIL,19,Cauca,2,CAU
+745,Simacota,3,SIM,68,Santander,2,SAN
+745,Simijaca,3,SIM,25,Cundinamarca,2,CUN
+744,Simiti,3,SIM,13,Bolivar,2,BOL
+001,Sincelejo,3,SIN,70,Sucre,2,SUC
+742,Since,3,SIN,70,Sucre,2,SUC
+745,Sipi,3,SIP,27,Choco,2,CHO
+745,Sitionuevo,3,SIT,47,Magdalena,2,MAG
+754,Soacha,3,SOA,25,Cundinamarca,2,CUN
+753,Soata,3,SOA,15,Boyaca,2,BOY
+757,Socha,3,SOC,15,Boyaca,2,BOY
+755,Socorro,3,SOC,68,Santander,2,SAN
+755,Socota,3,SOC,15,Boyaca,2,BOY
+759,Sogamoso,3,SOG,15,Boyaca,2,BOY
+765,Solano,3,SOL,18,Caqueta,2,CAQ
+758,Soledad,3,SOL,08,Atlantico,2,ATL
+785,Solita,3,SOL,18,Caqueta,2,CAQ
+761,Somondoco,3,SOM,15,Boyaca,2,BOY
+756,Sonson,3,SON,05,Antioquia,2,ANT
+761,Sopetran,3,SOP,05,Antioquia,2,ANT
+760,Soplaviento,3,SOP,13,Bolivar,2,BOL
+758,Sopo,3,SOP,25,Cundinamarca,2,CUN
+762,Sora,3,SOR,15,Boyaca,2,BOY
+764,Soraca,3,SOR,15,Boyaca,2,BOY
+763,Sotaquira,3,SOT,15,Boyaca,2,BOY
+760,Sotara (Paispamba),3,SOT,19,Cauca,2,CAU
+418,Sotomayor (Los Andes),3,SOT,52,Nariño,2,NAR
+770,Suaita,3,SUA,68,Santander,2,SAN
+770,Suan,3,SUA,08,Atlantico,2,ATL
+770,Suaza,3,SUA,41,Huila,2,HUI
+769,Subachoque,3,SUB,25,Cundinamarca,2,CUN
+785,Sucre,3,SUC,19,Cauca,2,CAU
+773,Sucre,3,SUC,68,Santander,2,SAN
+771,Sucre,3,SUC,70,Sucre,2,SUC
+772,Suesca,3,SUE,25,Cundinamarca,2,CUN
+777,Supata,3,SUP,25,Cundinamarca,2,CUN
+777,Supia,3,SUP,17,Caldas,2,CAL
+780,Surata,3,SUR,68,Santander,2,SAN
+779,Susa,3,SUS,25,Cundinamarca,2,CUN
+774,Susacon,3,SUS,15,Boyaca,2,BOY
+776,Sutamarchan,3,SUT,15,Boyaca,2,BOY
+781,Sutatausa,3,SUT,25,Cundinamarca,2,CUN
+778,Sutatenza,3,SUT,15,Boyaca,2,BOY
+780,Suarez,3,SUA,19,Cauca,2,CAU
+770,Suarez,3,SUA,73,Tolima,2,TOL
+315,Sacama,3,SAC,85,Casanare,2,CAS
+638,Sachica,3,SAC,15,Boyaca,2,BOY
+785,Tabio,3,TAB,25,Cundinamarca,2,CUN
+787,Tado,3,TAD,27,Choco,2,CHO
+780,Talaigua Nuevo,3,TAL,13,Bolivar,2,BOL
+787,Tamalameque,3,TAM,20,Cesar,2,CES
+794,Tame,3,TAM,81,Arauca,2,ARA
+786,Taminango,3,TAM,52,Nariño,2,NAR
+788,Tangua,3,TAN,52,Nariño,2,NAR
+666,Taraira,3,TAR,97,Vaupes,2,VAU
+790,Taraza,3,TAR,05,Antioquia,2,ANT
+791,Tarqui,3,TAR,41,Huila,2,HUI
+792,Tarso,3,TAR,05,Antioquia,2,ANT
+790,Tasco,3,TAS,15,Boyaca,2,BOY
+410,Tauramena,3,TAU,85,Casanare,2,CAS
+793,Tausa,3,TAU,25,Cundinamarca,2,CUN
+799,Tello,3,TEL,41,Huila,2,HUI
+797,Tena,3,TEN,25,Cundinamarca,2,CUN
+798,Tenerife,3,TEN,47,Magdalena,2,MAG
+799,Tenjo,3,TEN,25,Cundinamarca,2,CUN
+798,Tenza,3,TEN,15,Boyaca,2,BOY
+800,Teorama,3,TEO,54,Norte de Santander,2,NOR
+801,Teruel,3,TER,41,Huila,2,HUI
+797,Tesalia,3,TES,41,Huila,2,HUI
+805,Tibacuy,3,TIB,25,Cundinamarca,2,CUN
+804,Tibana,3,TIB,15,Boyaca,2,BOY
+806,Tibasosa,3,TIB,15,Boyaca,2,BOY
+807,Tibirita,3,TIB,25,Cundinamarca,2,CUN
+810,Tibu,3,TIB,54,Norte de Santander,2,NOR
+807,Tierralta,3,TIE,23,Cordoba,2,COR
+807,Timana,3,TIM,41,Huila,2,HUI
+809,Timbiqui,3,TIM,19,Cauca,2,CAU
+807,Timbio,3,TIM,19,Cauca,2,CAU
+808,Tinjaca,3,TIN,15,Boyaca,2,BOY
+810,Tipacoque,3,TIP,15,Boyaca,2,BOY
+810,Tiquisio (Puerto Rico),3,TIQ,13,Bolivar,2,BOL
+809,Titiribi,3,TIT,05,Antioquia,2,ANT
+814,Toca,3,TOC,15,Boyaca,2,BOY
+815,Tocaima,3,TOC,25,Cundinamarca,2,CUN
+817,Tocancipa,3,TOC,25,Cundinamarca,2,CUN
+816,Togui,3,TOG,15,Boyaca,2,BOY
+819,Toledo,3,TOL,05,Antioquia,2,ANT
+820,Toledo,3,TOL,54,Norte de Santander,2,NOR
+820,Tolu,3,TOL,70,Sucre,2,SUC
+823,Tolu Viejo,3,TOL,70,Sucre,2,SUC
+820,Tona,3,TON,68,Santander,2,SAN
+820,Topaga,3,TOP,15,Boyaca,2,BOY
+823,Topaipi,3,TOP,25,Cundinamarca,2,CUN
+821,Toribio,3,TOR,19,Cauca,2,CAU
+823,Toro,3,TOR,76,Valle del Cauca,2,VAL
+822,Tota,3,TOT,15,Boyaca,2,BOY
+824,Totoro,3,TOT,19,Cauca,2,CAU
+430,Trinidad,3,TRI,85,Casanare,2,CAS
+828,Trujillo,3,TRU,76,Valle del Cauca,2,VAL
+832,Tubara,3,TUB,08,Atlantico,2,ATL
+815,Tuchin,3,TUC,23,Cordoba,2,COR
+834,Tulua,3,TUL,76,Valle del Cauca,2,VAL
+835,Tumaco,3,TUM,52,Nariño,2,NAR
+001,Tunja,3,TUN,15,Boyaca,2,BOY
+832,Tunungua,3,TUN,15,Boyaca,2,BOY
+836,Turbaco,3,TUR,13,Bolivar,2,BOL
+838,Turbana,3,TUR,13,Bolivar,2,BOL
+837,Turbo,3,TUR,05,Antioquia,2,ANT
+835,Turmeque,3,TUR,15,Boyaca,2,BOY
+837,Tuta,3,TUT,15,Boyaca,2,BOY
+839,Tutasa,3,TUT,15,Boyaca,2,BOY
+400,Tamara,3,TAM,85,Casanare,2,CAS
+789,Tamesis,3,TAM,05,Antioquia,2,ANT
+838,Tuquerres,3,TUQ,52,Nariño,2,NAR
+839,Ubala,3,UBA,25,Cundinamarca,2,CUN
+841,Ubaque,3,UBA,25,Cundinamarca,2,CUN
+843,Ubate,3,UBA,25,Cundinamarca,2,CUN
+845,Ulloa,3,ULL,76,Valle del Cauca,2,VAL
+845,Une,3,UNE,25,Cundinamarca,2,CUN
+800,Unguia,3,UNG,27,Choco,2,CHO
+810,Union Panamericana (ANIMAS),3,UNI,27,Choco,2,CHO
+842,Uramita,3,URA,05,Antioquia,2,ANT
+370,Uribe,3,URI,50,Meta,2,MET
+847,Uribia,3,URI,44,La Guajira,2,LA 
+847,Urrao,3,URR,05,Antioquia,2,ANT
+855,Urumita,3,URU,44,La Guajira,2,LA 
+849,Usiacuri,3,USI,08,Atlantico,2,ATL
+854,Valdivia,3,VAL,05,Antioquia,2,ANT
+855,Valencia,3,VAL,23,Cordoba,2,COR
+855,Valle de San Jose,3,VAL,68,Santander,2,SAN
+854,Valle de San Juan,3,VAL,73,Tolima,2,TOL
+865,Valle del Guamuez,3,VAL,86,Putumayo,2,PUT
+001,Valledupar,3,VAL,20,Cesar,2,CES
+856,Valparaiso,3,VAL,05,Antioquia,2,ANT
+860,Valparaiso,3,VAL,18,Caqueta,2,CAQ
+858,Vegachi,3,VEG,05,Antioquia,2,ANT
+861,Venadillo,3,VEN,73,Tolima,2,TOL
+861,Venecia,3,VEN,05,Antioquia,2,ANT
+506,Venecia (Ospina Perez),3,VEN,25,Cundinamarca,2,CUN
+861,Ventaquemada,3,VEN,15,Boyaca,2,BOY
+862,Vergara,3,VER,25,Cundinamarca,2,CUN
+863,Versalles,3,VER,76,Valle del Cauca,2,VAL
+867,Vetas,3,VET,68,Santander,2,SAN
+867,Viani,3,VIA,25,Cundinamarca,2,CUN
+873,Vigia del Fuerte,3,VIG,05,Antioquia,2,ANT
+869,Vijes,3,VIJ,76,Valle del Cauca,2,VAL
+871,Villa Caro,3,VIL,54,Norte de Santander,2,NOR
+845,Villa Rica,3,VIL,19,Cauca,2,CAU
+407,Villa de Leiva,3,VIL,15,Boyaca,2,BOY
+874,Villa del Rosario,3,VIL,54,Norte de Santander,2,NOR
+885,Villagarzon,3,VIL,86,Putumayo,2,PUT
+871,Villagomez,3,VIL,25,Cundinamarca,2,CUN
+870,Villahermosa,3,VIL,73,Tolima,2,TOL
+873,Villamaria,3,VIL,17,Caldas,2,CAL
+873,Villanueva,3,VIL,13,Bolivar,2,BOL
+874,Villanueva,3,VIL,44,La Guajira,2,LA 
+872,Villanueva,3,VIL,68,Santander,2,SAN
+440,Villanueva,3,VIL,85,Casanare,2,CAS
+873,Villapinzon,3,VIL,25,Cundinamarca,2,CUN
+873,Villarrica,3,VIL,73,Tolima,2,TOL
+001,Villavicencio,3,VIL,50,Meta,2,MET
+872,Villavieja,3,VIL,41,Huila,2,HUI
+875,Villeta,3,VIL,25,Cundinamarca,2,CUN
+878,Viota,3,VIO,25,Cundinamarca,2,CUN
+879,Viracacha,3,VIR,15,Boyaca,2,BOY
+711,Vista Hermosa,3,VIS,50,Meta,2,MET
+877,Viterbo,3,VIT,17,Caldas,2,CAL
+861,Velez,3,VEL,68,Santander,2,SAN
+885,Yacopi,3,YAC,25,Cundinamarca,2,CUN
+885,Yacuanquer,3,YAC,52,Nariño,2,NAR
+885,Yaguara,3,YAG,41,Huila,2,HUI
+885,Yali,3,YAL,05,Antioquia,2,ANT
+887,Yarumal,3,YAR,05,Antioquia,2,ANT
+890,Yolombo,3,YOL,05,Antioquia,2,ANT
+893,Yondo (Casabe),3,YON,05,Antioquia,2,ANT
+001,Yopal,3,YOP,85,Casanare,2,CAS
+890,Yotoco,3,YOT,76,Valle del Cauca,2,VAL
+892,Yumbo,3,YUM,76,Valle del Cauca,2,VAL
+894,Zambrano,3,ZAM,13,Bolivar,2,BOL
+895,Zapatoca,3,ZAP,68,Santander,2,SAN
+960,Zapayan (PUNTA DE PIEDRAS),3,ZAP,47,Magdalena,2,MAG
+895,Zaragoza,3,ZAR,05,Antioquia,2,ANT
+895,Zarzal,3,ZAR,76,Valle del Cauca,2,VAL
+897,Zetaquira,3,ZET,15,Boyaca,2,BOY
+888,Zipacon,3,ZIP,25,Cundinamarca,2,CUN
+899,Zipaquira,3,ZIP,25,Cundinamarca,2,CUN
+980,Zona Bananera (PRADO - SEVILLA),3,ZON,47,Magdalena,2,MAG
+003,Abrego,3,ABR,54,Norte de Santander,2,NOR
+357,Iquira,3,IQU,41,Huila,2,HUI
+842,Umbita,3,UMB,15,Boyaca,2,BOY
+851,Utica,3,UTI,25,Cundinamarca,2,CUN
